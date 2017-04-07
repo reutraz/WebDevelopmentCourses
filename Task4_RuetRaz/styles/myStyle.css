@@ -1,0 +1,156 @@
+
+
+body {
+    direction: rtl;
+    font-family: 'Heebo', sans-serif;
+    background-color:#FFFFF2;
+}
+
+#container {
+    width: 960px;
+    height: 1512px;
+    margin: 0 auto;
+  background-image:url("../images/REKE4.png");
+    background-repeat: no-repeat;
+    font-family: 'Heebo', sans-serif;
+}
+
+#title {
+    font-size: 40pt;
+    margin-bottom:50px;
+    font-weight: bold;
+    color: darkblue;
+    font-family: 'Heebo', sans-serif;
+    text-align:center;
+    width: 960px;
+    height: 400px;
+     
+}
+
+#bigbox {
+    width: 1040px;
+    height: 180px;
+    background-color:rosybrown;
+    position: absolute;
+    margin-right: -40px;
+    margin-top: 10px;
+}
+
+#ribbon:before {
+    content: '';
+    position: absolute;
+    margin-right: 1000px;
+    margin-top: -40px;
+    border-bottom: solid 20px #70849f;
+    border-right: solid 20px #70849f;
+    border-top: solid 20px transparent;
+    border-left: solid 20px transparent;
+}
+
+#ribbon:after {
+    content: '';
+    position: absolute;
+    margin-top: -40px;
+    margin-right: 0px;
+    border-bottom: solid 20px #70849f;
+    border-left: solid 20px #70849f;
+    border-top: solid 20px transparent;
+    border-right: solid 20px transparent;
+}
+
+h2 {
+    position: absolute;
+    font-size: 24pt;
+    font-weight:bold;
+    color: white;
+    font-family: 'Heebo', sans-serif;
+    margin-right:80px;
+    margin-top: -170px;
+    text-align:center;
+    width: 800px;
+    padding: 10px;
+
+}
+h2 span{ 
+     font-weight:300;
+        font-family: 'Heebo', sans-serif;
+}
+
+
+
+#bottom{
+    width:960px;
+    height:380px;
+    background-color:white;
+    margin-top:380px;
+}
+
+
+#smallbox1{
+    width:870px;
+    height:200px;
+    margin-right:45px;
+    margin-bottom:550px;    
+}
+
+h3{
+        font-family: 'Heebo', sans-serif;
+    font-size: 24pt;
+    color:cornflowerblue;
+    font-weight:bold;
+    text-align:center;
+    padding:15px;
+    margin-bottom:600px;
+}
+
+form{
+    text-align:center;
+}
+
+label{
+     margin-top:10px;
+}
+
+input[type ='text'] , select {
+
+    margin-bottom:15px;
+}
+
+input[type ='submit']
+{
+ margin-top:10px;
+}
+
+form section{
+    display:block;
+}
+
+#check{
+    display:inline-block;
+            font-family: 'Heebo', sans-serif;
+    font-size: 11pt;
+}
+
+#Send{
+    display:inline-block;
+    margin-left:50px;
+    height:30px;
+    width:50px;
+}
+
+
+#bottomtext{
+    font-family: 'Heebo', sans-serif;
+    font-size: 14pt;
+    color:darkblue;
+    text-align:center;
+    margin-top:20px;
+}
+#bottomtext a{
+    font-family: 'Heebo', sans-serif;
+    font-size: 14pt;
+    color:darkblue;
+    text-align:center;
+    
+}
+
