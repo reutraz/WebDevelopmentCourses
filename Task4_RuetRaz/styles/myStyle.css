@@ -60,15 +60,15 @@ body {
 
 h2 {
     position: absolute;
-    font-size: 24pt;
+    font-size: 20pt;
     font-weight:bold;
     color: white;
     font-family: 'Heebo', sans-serif;
     margin-right:80px;
     margin-top: -170px;
     text-align:center;
-    width: 800px;
-    padding: 10px;
+    width: 850px;
+    padding: 5px;
 
 }
 h2 span{ 
